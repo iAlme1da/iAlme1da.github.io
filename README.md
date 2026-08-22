@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <HTML LANG "pt-BR">
 <head>
-	<title> murphis </title>
 </head>
 	<body bgcolor="#000000">
 	<center><FONT COLOR="White" size="7">Vai Corinthians!</font></center>
@@ -11,7 +10,7 @@
 
 <hr>
 <br>
-  <center><img src="https://www.folha1.com.br/_midias/wp/blogs/pontodevista/files/2012/07/Corinthians-Campe%C3%A3o-Libertadores-    2012-Globo-Esporte-2.jpg"width="600"heigth=550"><img     src="https://cdn.meutimao.com.br/_upload/noticia/2020/03/26/corinthians-foi-campeao-da-libertadores-2012_1a941w.jpg"width="600"heigth=550"></img></center></img>
+  <center><img src="https://www.folha1.com.br/_midias/wp/blogs/pontodevista/files/2012/07/Corinthians-Campe%C3%A3o-Libertadores-    2012-Globo-Esporte-2.jpg"width="600"heigth=550"> <img src="https://cdn.meutimao.com.br/_upload/noticia/2020/03/26/corinthians-foi-campeao-da-libertadores-2012_1a941w.jpg"width="600"heigth=550"></img></center></img>
 
 <br>
 <br>
