@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <HTML LANG "pt-BR">
 <head>
-	<title>murphis</title>
+	<title> murphis </title>
 </head>
 	<body bgcolor="#000000">
 	<center><FONT COLOR="White" size="7">Vai Corinthians!</font></center>
